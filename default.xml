@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="aosp" fetch=".." review="https://android-review.googlesource.com/" />
+  <remote  name="aosp" fetch="https://android.googlesource.com/" review="https://android-review.googlesource.com/" />
   <remote name="sir" fetch="https://github.com/sirnewbies/" revision="main" />
   <remote name="clang" fetch="https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86" revision="refs/heads/main" />
 
